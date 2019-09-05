@@ -1,3 +1,4 @@
+		
 
 public class Asterisks{
     public static void main(String... args){
@@ -11,9 +12,11 @@ public class Asterisks{
 	System.out.println("*       * *       *    *      *   *\n");
 	System.out.println("*       *  *     *     *       * *\n");
 	System.out.println("*********    ***       *        *\n");
-		System.out.print("How are you doing today");	
-    }
-
+	System.out.println("How are you doing today");	
+    		System.out.print("hey ");	
+	}
+	
 
 }
+
 
